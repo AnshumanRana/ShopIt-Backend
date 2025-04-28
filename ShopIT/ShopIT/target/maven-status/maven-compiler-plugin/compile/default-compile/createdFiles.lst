@@ -1,0 +1,17 @@
+com\ecommerce\ShopIT\Entity\ProductDTO.class
+com\ecommerce\ShopIT\Entity\MultipleSubcategoryDTO.class
+com\ecommerce\ShopIT\Controller\CategoryController.class
+com\ecommerce\ShopIT\Entity\Product.class
+com\ecommerce\ShopIT\Controller\ProductController.class
+com\ecommerce\ShopIT\Repository\CategoryRepository.class
+com\ecommerce\ShopIT\Entity\Subcategory.class
+com\ecommerce\ShopIT\Controller\SubcategoryController.class
+com\ecommerce\ShopIT\CloudnaryConfig\CloudinaryConfig.class
+com\ecommerce\ShopIT\Service\ProductService.class
+com\ecommerce\ShopIT\Entity\Category.class
+com\ecommerce\ShopIT\Service\SubcategoryService.class
+com\ecommerce\ShopIT\Repository\SubcategoryRepository.class
+com\ecommerce\ShopIT\ShopItApplication.class
+com\ecommerce\ShopIT\Repository\ProductRepository.class
+com\ecommerce\ShopIT\Entity\SubcategoryDTO.class
+com\ecommerce\ShopIT\Service\ImageUploadService.class
